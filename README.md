@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🖤
 
-Meu nome é Kauani Benites
+Meu nome é Professora 
 
 - Estou estudando no Alura
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,7 +8,7 @@ Meu nome é Kauani Benites
 
 ### Você pode entrar em contato comigo 📫
 
-Kauani@professor.com.br
+Lydia@professor.com.br
 
 @ProfLydia 
 
